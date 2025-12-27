@@ -1,5 +1,5 @@
 <?php
-// Laporan booking dan total pendapatan
+// Laporan booking dan pendapatan
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
