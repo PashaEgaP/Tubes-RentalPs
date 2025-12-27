@@ -1,5 +1,5 @@
 <?php
-
+// Dashboard ringkasan admin
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
