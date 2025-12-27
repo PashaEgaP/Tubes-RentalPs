@@ -1,4 +1,4 @@
-<!-- Navigation utama Rental PS -->
+<!-- Layout utama dan navigasi Rental PS -->
 <!DOCTYPE html>
 <html lang="id">
 <head>
