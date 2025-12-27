@@ -1,5 +1,5 @@
 <?php
-
+// Booking PlayStation oleh user
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
