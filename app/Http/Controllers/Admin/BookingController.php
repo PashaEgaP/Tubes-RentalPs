@@ -1,5 +1,5 @@
 <?php
-// Admin mengelola booking (approve & finish)
+// Admin approve dan menyelesaikan booking
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
