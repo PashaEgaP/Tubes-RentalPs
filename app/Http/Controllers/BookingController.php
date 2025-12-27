@@ -1,5 +1,5 @@
 <?php
-
+// Booking PlayStation oleh User + hitung otomatis total harga
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
