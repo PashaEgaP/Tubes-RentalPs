@@ -1,5 +1,5 @@
 <?php
-
+// Role user: admin / user
 namespace App\Models;
 
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
