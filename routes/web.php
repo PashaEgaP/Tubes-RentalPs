@@ -1,5 +1,5 @@
 <?php
-
+// Routing authentication dan role-based redirect
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\BookingController;
 use App\Http\Controllers\Admin\PlaystationController;

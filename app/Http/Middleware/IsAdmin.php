@@ -1,5 +1,5 @@
 <?php
-
+// Middleware untuk membatasi akses admin
 namespace App\Http\Middleware;
 
 use Closure;
