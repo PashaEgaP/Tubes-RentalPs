@@ -82,6 +82,10 @@ Route::prefix('admin')->group(function () {
 
  Route::get('/tes-admin', function () {
     return 'ADMIN ROUTE HIDUP';
+ });
+
+    Route::get('/', function () {
+        return redirect()->route('login');
 });
 
 require __DIR__.'/auth.php';
